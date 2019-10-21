@@ -1,2 +1,2 @@
 # machine_learning
-💻 Machine learning course at SoftUni
+Machine learning course at SoftUni
